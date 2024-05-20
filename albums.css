@@ -1,0 +1,9 @@
+body {
+    background-image: url(albums.png);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    background-size: contain;
+    background-color: #cceb9a50;
+    /*color hex code*/
+}
